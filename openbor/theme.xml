@@ -17,10 +17,10 @@
   <size>0 0</size>
   </text>
   <text name="shortdescription" extra="true">
-  <text>Video Games System</text>
+  <text>Software</text>
   </text>
   <text name="longdescription" extra="true">
-  <text>Video Games System</text>
+  <text>OpenBOR is the ultimate 2D side scrolling engine for beat em' ups, shooters, and more</text>
   </text>
   </view>
   </theme>
